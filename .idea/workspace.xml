@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cdd7473-df53-45d1-ba6b-1246ccc2ea13" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8cdd7473-df53-45d1-ba6b-1246ccc2ea13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Date/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date/src/main/java/vidu1/vidu1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparator/src/main/java/vidu/ComparatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/comparator/src/main/java/vidu/ComparatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparator/src/main/java/vidu/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/comparator/src/main/java/vidu/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/src/main/java/vidu1/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambdas/src/main/java/vidu1/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/src/main/java/vidu2/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/lambdas/src/main/java/vidu2/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/target/classes/vidu1/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/lambdas/target/classes/vidu1/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/target/classes/vidu2/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/lambdas/target/classes/vidu2/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/log/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/log/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/file_log/mylog.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/file_log/mylog.log.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/file_log/mylog.log.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/file_log/mylog.log.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/file_log/mylog.log.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/file_log/mylog.log.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/log/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/out/production/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log/out/production/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/log/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparator/target/classes/vidu/ComparatorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/comparator/target/classes/vidu/ComparatorExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparator/target/classes/vidu/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/comparator/target/classes/vidu/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +60,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
-  </component>
   <component name="ProjectId" id="1WeH4vbqTQPFnMxlGMppidFjt4F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -117,7 +97,7 @@
       <recent name="F:\myjavacore\core-java-modules\lambdas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComparatorExample">
+  <component name="RunManager" selected="Application.vidu1">
     <configuration name="ComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vidu.ComparatorExample" />
       <module name="comparator" />
@@ -151,19 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vidu1.OptionalExample2" />
-      <module name="Optional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vidu1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vidu2.Sort" />
       <module name="lambdas" />
@@ -177,20 +144,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vidu1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vidu1.vidu1" />
+      <module name="Date" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vidu1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ComparatorExample" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.OptionalExample2" />
       <item itemvalue="Application.Example" />
       <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.vidu1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.vidu1" />
         <item itemvalue="Application.ComparatorExample" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.OptionalExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -223,12 +203,24 @@
       <workItem from="1575968091370" duration="5253000" />
       <workItem from="1576029821522" duration="1568000" />
       <workItem from="1579502953933" duration="865000" />
-      <workItem from="1579505743077" duration="2200000" />
+      <workItem from="1579505743077" duration="4323000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1579508209814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579508209814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579506801113">
@@ -243,30 +235,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="808" y="415" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579506614263" />
-    <state x="585" y="120" key="CommitChangelistDialog2" timestamp="1579508194941">
+    <state x="585" y="120" key="CommitChangelistDialog2" timestamp="1579508208729">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="585" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579508194941" />
-    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1579508086880">
+    <state x="585" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579508208729" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1579517730190">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579508086880" />
-    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1579508086880">
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579517730190" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1579517730190">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579508086880" />
-    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1579508086880">
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579517730190" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1579517730190">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579508086880" />
-    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1579508086880">
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579517730190" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1579517730190">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579508086880" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579517730190" />
     <state x="440" y="100" key="SettingsEditor" timestamp="1579507572053">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="100" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579507572053" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1579508224991">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579508224991" />
     <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1579506594415">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -275,5 +271,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="769" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579508166871" />
+    <state x="100" y="302" key="new project wizard" timestamp="1579516421805">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="100" y="302" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1579516421805" />
   </component>
 </project>

@@ -9,6 +9,7 @@
         <module name="lambdas" />
         <module name="Thread" />
         <module name="Optional" />
+        <module name="Date" />
         <module name="comparator" />
       </profile>
     </annotationProcessing>

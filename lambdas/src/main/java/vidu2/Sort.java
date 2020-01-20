@@ -11,12 +11,12 @@ import java.util.List;
 public class Sort {
     public static void main(String[] args) {
         List<String> l = Arrays.asList("tao", "chuoi", "mit");
-//        Collections.sort(l, new Comparator<String>() {
-//            @Override
-//            public int compare(String o1, String o2) {
-//                return o2.compareTo(o1);
-//            }
-//        });
+        Collections.sort(l, new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return o2.compareTo(o1);
+            }
+        });
 
         /*
         in ra man hinh cac phan tu
@@ -28,20 +28,20 @@ public class Sort {
         /*
         in ra man hinh cac phan tu va co sap xep
          */
-        l.sort(new Comparator<String>() {
-            @Override
-            public int compare(String o1, String o2) {
-                return 0;
-            }
-        });
+//        l.sort(new Comparator<String>() {
+//            @Override
+//            public int compare(String o1, String o2) {
+//                return -1;
+//            }
+//        });
 
         //hoac
 //        Collections.sort(l, (o1, o2) -> {
 //            return o1.compareTo(o2);
 //        });
-        l.forEach((t)->{
-            System.out.println(t);
-        });
+//        l.forEach((t)->{
+//            System.out.println(t);
+//        });
 
 //        for (String x : l) {
 //            System.out.println(x);

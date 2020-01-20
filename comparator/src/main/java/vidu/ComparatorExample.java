@@ -25,14 +25,21 @@ public class ComparatorExample {
 //            }
 //        });
 
-        Collections.sort(listStudents, (o1, o2)->{
-            return o1.getName().compareTo(o2.getName());
-        });
+//        Collections.sort(listStudents, (o1, o2)->{
+//            return o1.getName().compareTo(o2.getName());
+//        });
 
         // show list students
-        for (Student student : listStudents) {
-            System.out.println(student.toString());
-        }
+//        for (Student student : listStudents) {
+//            System.out.println(student.toString());
+//        }
+        listStudents.sort((o1, o2) -> {
+            return o2.getName().compareTo(o1.getName());
+//            return o2.getAge()- o1.getAge();
+        });
+        listStudents.forEach((l) -> {
+            System.out.println(l);
+        });
 
         // sort list student by it's age ASC
         System.out.println("sort list student by it's age ASC: ");
@@ -42,13 +49,13 @@ public class ComparatorExample {
 //                return o1.getAge() > o2.getAge() ? 1 : -1;
 //            }
 //        });
-        Collections.sort(listStudents, (o1, o2)->{
-            return o2.getAge() - o1.getAge() ;
-        });
-
-        // show list students
-        for (Student student : listStudents) {
-            System.out.println(student.toString());
-        }
+//        Collections.sort(listStudents, (o1, o2)->{
+//            return o2.getAge() - o1.getAge() ;
+//        });
+//
+//        // show list students
+//        for (Student student : listStudents) {
+//            System.out.println(student.toString());
+//        }
     }
 }

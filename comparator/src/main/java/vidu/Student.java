@@ -5,7 +5,6 @@ import lombok.Data;
 import java.util.Comparator;
 
 @Data
-
 class Student {
     private int id;
     private String name;

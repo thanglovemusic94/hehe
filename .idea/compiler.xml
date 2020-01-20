@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lambdas" />
+        <module name="Thread" />
         <module name="Optional" />
         <module name="comparator" />
-        <module name="thread" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

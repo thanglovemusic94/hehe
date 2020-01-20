@@ -5,6 +5,8 @@ public class Example {
         SayHello sh = () -> {
             System.out.println("hello");
         };
+
+
         sh.say();
 
 
